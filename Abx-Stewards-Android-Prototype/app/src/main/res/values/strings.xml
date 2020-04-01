@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">Abx SteWARdS</string>
+    <string name="post_url">[removed]</string>
+    <string name="auth_url">[removed]</string>
+    <string name="recommended">Please review the need for antibiotics for your patient</string>
+    <string name="not_recommended">Based on the results from 3 validated models, antibiotics is not recommended for your patient</string>
+
+    <string name="edurti_about_text">Get recommendations on whether antibiotics is required for your
+        uncomplicated URTI patient, based on results from 3 validated models developed from local
+        epidemiological and clinical data obtained  from an adult ED in Singapore.
+        \n
+        \nRemember to open up the app when there’s internet connection for data synchronization purpose
+    </string>
+
+    <string name="edurti_admin_contact_info_text">
+        Email: [removed]
+    </string>
+
+    <string name="login_check_error_text">
+        User account does not exist!\n
+        Please sign in with a valid\n
+        user account!\n
+        \n
+        For assistance, please\n
+        contact the administrator at\n
+        [removed]
+    </string>
+
+    <string name="drawer_open">Open navigation drawer</string>
+    <string name="drawer_close">Close navigation drawer</string>
+</resources>
