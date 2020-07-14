@@ -6,9 +6,9 @@ But for the ease of deployment, the version of the app that was built using a cr
 Before uploading the codes to this public repository, curtains functions and information had to be removed:
 - Contact information of the support team
 - Function to post the form results to the server
-- Function to authenticate the credentials in the log in screen with the server
-> The username and password hve been changed to "username" and "password" respectively
-- Fuction to check the stored credentials with the server on app resume
+- Function to authenticate the credentials in the login screen with the server
+> The username and password have been changed to "username" and "password" respectively
+- Function to check the stored credentials with the server on app resume
 ## Usage
 ### Logging in
 > Log in credentials:  
