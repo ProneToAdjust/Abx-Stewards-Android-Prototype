@@ -1,7 +1,7 @@
 # Abx-Stewards-Android-Prototype
 ## About
-This application was developed as the android version of the abx stewards app. 
-But for the ease of deployment, the version of the app that was built using a cross-platform framework was deployed instead.
+This application was result of one of the projects developed for the major project module during the final year of polytechnic.  
+Originally developed as the android version of the abx stewards app, the final version of the app was instead built using a cross-platform framework for ease of deployment.
 ## What changed
 Before uploading the codes to this public repository, curtains functions and information had to be removed:
 - Contact information of the support team
